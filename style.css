@@ -145,6 +145,22 @@ main {
 .sponsors-img-container img {
   width: 165px;
 }
+
+/*features*/
+.features-section {
+  display: flex;
+  margin-top: 130px;
+  gap: 100px;
+}
+
+.features-content .card {
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
 /*Responsive*/
 
 /*mobile devices*/
